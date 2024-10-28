@@ -1,0 +1,21 @@
+body{
+    margin: 10px;
+    color:aliceblue;
+    background-image: url('bg.jpg');
+    background-repeat: repeat;
+    background-size:cover;
+}
+
+img {
+    height: 480px;
+    weight: 560px;
+    float: right;
+    margin: 5px;
+
+}
+
+h1 {
+    font-size: 450%;
+    font-family: monospace;
+    font-weight: bolder;
+}
